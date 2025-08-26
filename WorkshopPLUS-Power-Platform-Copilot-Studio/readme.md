@@ -1,4 +1,4 @@
 
-# WorkshopPLUS-Power-Platform-Copilot-Studio
+# WorkshopPLUS: Power Platform Copilot Studio
 more to come
 
