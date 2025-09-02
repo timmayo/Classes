@@ -1,3 +1,3 @@
 
-# WorkshopPLUS: Power Platform Copilot Studio
+# WorkshopPLUS: Power Platform for Administrators
 more to come
